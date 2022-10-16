@@ -13,3 +13,4 @@ Busca en la BD
 
 ### Nota
 All staff created have same default password : 1234abcd..
+https://www.configuroweb.com/programa-gratis-para-restaurante-con-toma-de-pedidos-y-gestion-de-meseros/
